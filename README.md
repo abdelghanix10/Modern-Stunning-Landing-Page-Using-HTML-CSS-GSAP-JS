@@ -1,4 +1,4 @@
-"# Modern Stunning Landing Page Using HTML, CSS, GSAP & JS
+# Modern Stunning Landing Page Using HTML, CSS, GSAP & JS
 
 A sleek and modern landing page designed to showcase design inspirations and news. Built with HTML, CSS, and enhanced with GSAP animations for smooth, engaging user interactions.
 
@@ -41,4 +41,4 @@ The landing page features:
 
 ## License
 
-This project is for educational and demonstration purposes. Feel free to use and modify as needed."
+This project is for educational and demonstration purposes. Feel free to use and modify as needed.
